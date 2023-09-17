@@ -1,0 +1,11 @@
+{
+  "name": "edlin-nextjs",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "next": "13.2.4"
+  }
+}
