@@ -1,9 +1,15 @@
 {
   "name": "edlin-nextjs",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "author": "Ross Edlin <code@codewithross.com>",
+  "homepage": "https://www.codewithross.com/",
   "description": "",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossedlin/edlin-nextjs.git"
+  },
   "scripts": {
     "test": ""
   },
